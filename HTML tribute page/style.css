@@ -1,0 +1,38 @@
+.Tribute-content{
+    text-align: center;
+    background-color:rgb(208, 158, 104);
+    padding: 60px 20px 20px 60px;
+}
+.Img-caption{
+    line-height: 0%;
+    padding: 5px 0px;
+}
+.Img-section{
+    margin: 0;
+    padding: 20px 0px;     
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+h2{
+    padding-top: 30px;
+}
+.List{
+    max-width: 85%;
+    margin: 10px;
+}
+.List-item{
+    text-align: left;
+    font-size:larger;
+    margin: 10px;
+}
+.Quote{
+    font-size: 30px;
+    font-style: italic;
+    padding: 20px 0px;
+}
