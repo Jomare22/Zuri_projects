@@ -1,2 +1,2 @@
 # Zuri_projects
-Backup of all projects on Tuf A15
+Backup of all projects done while on the I4GxZuri Web Development training.
