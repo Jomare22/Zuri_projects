@@ -1,7 +1,15 @@
 .Tribute-content{
     text-align: center;
-    background-color:rgb(208, 158, 104);
+    background-color:rgb(111, 209, 203);
     padding: 60px 20px 20px 60px;
+}
+.First-section{
+    font-size: larger;
+    background-color: rgb(169, 224, 220);
+    color: rgb(0, 0, 0);
+    margin-right: 30px;
+    text-align: justify;
+    padding: 20px;
 }
 .Img-caption{
     line-height: 0%;
@@ -9,7 +17,8 @@
 }
 .Img-section{
     margin: 0;
-    padding: 20px 0px;     
+    padding: 20px 0px; 
+    text-align: center;
 }
 img{
     width: 200px;

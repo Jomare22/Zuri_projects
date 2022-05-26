@@ -1,14 +1,13 @@
 .RowHeading{
-    text-align: left;
+    text-align: center;
     background-color: rgb(140, 89, 194);
     color: rgb(255, 255, 255);
+   
 }
 
 table{
-   /* border: 1;
-    padding: 5;
-    border-collapse: collapse;*/
-    text-align: center;
+    text-align: left;
+   
 }
 
 table tr:nth-child(odd) td{
