@@ -23,4 +23,4 @@ def count_words():
 
     return dictionary
 
-print(count_words())
+print(count_words()) #checking the output
