@@ -6,7 +6,7 @@ class Student:
         self.tracks = tracks
         self.score = score
         print(name, age, tracks, score)
-    #Requested menthods
+    #Requested methods
     def change_name(self, new_name):
         self.name = new_name
     
