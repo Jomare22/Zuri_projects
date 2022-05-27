@@ -5,11 +5,11 @@
 
 def read_file_content(filename):
     # [assignment] Add your code here 
-    sentences = open(filename)
+    sentences = open(filename, "r")
     return sentences
 
 def count_words():
-    text = read_file_content('story.txt')
+    text = read_file_content("./story.txt")
     # [assignment] Add your code here
     dictionary = dict()
     for line in text:
