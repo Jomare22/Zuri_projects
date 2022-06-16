@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Comfortaa', cursive;
+    color: rgb(59, 58, 58);
+}
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+    font-weight:bold;
+}
+
+.nav ul{
+    margin: 0;
+    border-bottom: 1px solid rgba(119, 119, 119, 0.568);
+}
+
+.nav li{
+    display: inline;
+    padding: 0 4%;
+}
+
+.main-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+}
+
+nav a{
+    display: inline-block;
+    padding: .5em;
+    color: white;
+    text-decoration: none;
+}
+.nav a:hover{
+    background-color: rgba(136, 135, 135, 0.315);
+}
+
+header{
+    background-image: url(Images/I-Remember-Purple-Skies-spillwords-1-1320x699.jpg);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.445);
+    background-blend-mode: multiply;
+    padding-bottom: 30px;
+}
+h1{
+    font-size: 5em;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(227, 226, 228);
+}
+main{
+    margin: 1em;
+}
+
+img{
+    float: left;
+    height: 230px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 50%;
+}
+h2{
+    float:inline-start;
+    color: black;
+}
+footer{
+    background-color: black;
+    padding: 1em;
+}
+.contact{
+    background-color: black;
+    color: rgb(227, 226, 228);
+    border-radius: 25%;
+    text-align: center;
+    padding: 1em;
+    font-size:50px;
+    font-family: 'Dancing Script', cursive;
+    margin: auto;
+    display: flex;
+}
+button{
+    background-color: rgb(138, 78, 130);
+    color: rgb(227, 226, 228);
+    border-radius: 25%;
+    text-align: center;
+    font-size:20px;
+    font-family: 'Dancing Script', cursive;
+}
+a{
+    text-decoration: none;
+}
+button:hover{
+    background-image: url(Images/I-Remember-Purple-Skies-spillwords-1-1320x699.jpg);
+}
+p{
+    line-height: 1.5em;
+}
+div{
+    line-height: 2em;
+}
+label{
+    display: block;
+}
+textarea{
+    width: 80%;
+    min-height:200px;
+}
