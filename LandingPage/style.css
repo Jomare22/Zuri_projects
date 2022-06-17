@@ -24,6 +24,12 @@ body{
     gap: 10px;
     width: 50%;
     margin: auto;
+    transition: 1s;
+}
+
+body:hover .floating{
+    transform: translateX(100%);
+    background-color: blueviolet;
 }
 
 
@@ -124,6 +130,9 @@ footer{
     box-shadow: none;
     width: 80%;
 }
+
+
+
 
 a{
     text-decoration: none;
